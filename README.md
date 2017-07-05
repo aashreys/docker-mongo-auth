@@ -16,3 +16,5 @@ The Dockerfile contains a number of enviroment variables which you can customize
 # ENV MONGODB_APPLICATION_USER user
 # ENV MONGODB_APPLICATION_PASS password
 ```
+
+Find the image on Docker Cloud @ https://cloud.docker.com/swarm/aashreys/repository/docker/aashreys/mongo-auth
