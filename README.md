@@ -1,5 +1,5 @@
 # docker-mongo-auth
-A Docker Image config for MongoDB on Docker which makes it easy to create an Admin, a Database and a Database Owner when the container is first launched. 
+A Docker Image for MongoDB which makes it easy to create an Admin, a Database and a Database User when the container is first launched.
 
 # Customization
 The Dockerfile contains a number of enviroment variables which you can customize to set up Mongo.
