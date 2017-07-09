@@ -38,6 +38,7 @@ There are a number of environment variables which you can specify to customize t
 - With command line
   ```
   docker run -it \
+    -e AUTH=yes \
     -e MONGODB_ADMIN_USER=admin \
     -e MONGODB_ADMIN_PASS=adminpass \
     -e MONGODB_APPLICATION_DATABASE=mytestdatabase \
