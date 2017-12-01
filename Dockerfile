@@ -1,4 +1,4 @@
-FROM mongo
+FROM mongo:3.2
 
 MAINTAINER <Aashrey Sharma> aashreysh@gmail.com
 
