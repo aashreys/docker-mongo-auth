@@ -56,6 +56,9 @@ Temporary Items
 # proportion of contributors will probably not be using SublimeText
 *.sublime-project
 
+### Webstorm IDE ###
+.idea
+
 # sftp configuration file
 sftp-config.json
 
