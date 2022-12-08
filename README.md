@@ -1,3 +1,6 @@
+# Deprecated
+This repository is not maintained anymore.
+
 # docker-mongo-auth
 A Docker Image for MongoDB which makes it easy to create an Admin, a Database and a Database User when the container is first launched.
 
